@@ -1,5 +1,5 @@
 # HVNC for c# 
-Re-creating the HVNC (Hidden Virtual Network Desktop) in C# from a C++ source
+Re-creating the HVNC (Hidden Virtual Network Computing) in C# from a C++ source
 Contributions much appreciated, please use this source: https://github.com/rossja/TinyNuke/blob/master/Bot/HiddenDesktop.cpp
 
 # How to contribute?
