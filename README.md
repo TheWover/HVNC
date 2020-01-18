@@ -8,3 +8,7 @@ Fork this repository on GitHub.
 Open your terminal and type something like "git clone https://github.com/YOUR USERNAME/HVNC.git"
 Start adding to the source.
 Create a pull request on GitHub.
+
+# Preview (not this or TinyNuke, just to show)
+![Preview](https://upload.wikimedia.org/wikipedia/commons/7/7f/VNC_in_KDE.png)
+![Preview2](https://i.imgur.com/d57cP6W.jpg)
